@@ -1,1 +1,1 @@
-## First Blog - Laravel Project
+## Laravel - First Blog
